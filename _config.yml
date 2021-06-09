@@ -1,10 +1,10 @@
-title: Ngzhio's Blog
-description: The personal blog of Shangzhi Huang
+title: Tuan Plus
+description: The personal blog of StormX
 url: https://ngzhio.github.io
-author: Shangzhi Huang
+author: Tuan Do
 avatar: /avatar.jpg
-email: ngzhio@gmail.com
-location: Shenzhen, China
+email: ssa@gmail.com
+location: VN
 timezone: +0000
 
 plugins:
@@ -34,7 +34,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Shangzhi Huang"
+      author: "Tuan Plus"
       image: "avatar.jpg"
       share: true
   - scope:
@@ -42,7 +42,7 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      author: "Shangzhi Huang"
+      author: "Tuan Plus"
       image: "avatar.jpg"
 
 # Jekyll Remote Theme
